@@ -9,6 +9,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+
 import Title from './components/Title.vue'
 import Jumbotron from './components/Hero.vue'
 
